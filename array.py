@@ -1,5 +1,6 @@
 from gpiozero import LED
 from time import sleep
+num = " "
 
 led1 = LED(17)
 led2= LED(6)
